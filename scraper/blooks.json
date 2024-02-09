@@ -1,0 +1,2487 @@
+{
+    "10k": {
+        "rarity": "Chroma",
+        "chance": 100,
+        "price": 300,
+        "image": "/content/blooks/10k.png",
+        "art": ""
+    },
+    "Chocolate Rabbit": {
+        "rarity": "Chroma",
+        "chance": 100,
+        "price": 300,
+        "image": "/content/blooks/Chocolate Rabbit.png",
+        "art": "/content/packs/art/Pet.png"
+    },
+    "Lovely Planet": {
+        "rarity": "Chroma",
+        "chance": 100,
+        "price": 300,
+        "image": "/content/blooks/Lovely Planet.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Lucky Hamster": {
+        "rarity": "Chroma",
+        "chance": 100,
+        "price": 300,
+        "image": "/content/blooks/Lucky Hamster.png",
+        "art": "/content/packs/art/Pet.png"
+    },
+    "Lunar Frog": {
+        "rarity": "Chroma",
+        "chance": 100,
+        "price": 300,
+        "image": "/content/blooks/Lunar Frog.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Amber": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Amber.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Angry Bot": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Angry Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Black Licorice": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Black Licorice.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Candy Corn": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Candy Corn.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Dino Egg": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Dino Egg.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Dino Fossil": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Dino Fossil.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Happy Bot": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Happy Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Ice Bat": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Ice Bat.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Ice Bug": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Ice Bug.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Ice Elemental": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Ice Elemental.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Jellybean": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Jellybean.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Lil Bot": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Lil Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Lollipop": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Lollipop.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Lovely Bot": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Lovely Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Rock Monster": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Rock Monster.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Stegosaurus": {
+        "rarity": "Uncommon",
+        "chance": 19.5,
+        "price": 5,
+        "image": "/content/blooks/Stegosaurus.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Air Elemental": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Air Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Alien": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Alien.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Dingo": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Dingo.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Earth": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Earth.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Echidna": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Echidna.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Fire Elemental": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Fire Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Iron Chestplate": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Iron Chestplate.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Koala": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Koala.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Kookaburra": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Kookaburra.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Meteor": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Meteor.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Nature Elemental": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Nature Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Silver Shuriken": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Silver Shuriken.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Spiked Boot": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Spiked Boot.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Stars": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Stars.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Viking Helmet": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Viking Helmet.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Water Elemental": {
+        "rarity": "Uncommon",
+        "chance": 18.75,
+        "price": 5,
+        "image": "/content/blooks/Water Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Frankenstein": {
+        "rarity": "Uncommon",
+        "chance": 18.5,
+        "price": 5,
+        "image": "/content/blooks/Frankenstein.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Pumpkin": {
+        "rarity": "Uncommon",
+        "chance": 18.5,
+        "price": 5,
+        "image": "/content/blooks/Pumpkin.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Swamp Monster": {
+        "rarity": "Uncommon",
+        "chance": 18.5,
+        "price": 5,
+        "image": "/content/blooks/Swamp Monster.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Vampire": {
+        "rarity": "Uncommon",
+        "chance": 18.5,
+        "price": 5,
+        "image": "/content/blooks/Vampire.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Ankha": {
+        "rarity": "Uncommon",
+        "chance": 17.5,
+        "price": 5,
+        "image": "/content/blooks/Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Mummy Ankha": {
+        "rarity": "Uncommon",
+        "chance": 17.5,
+        "price": 5,
+        "image": "/content/blooks/Mummy Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Realistic Ankha": {
+        "rarity": "Uncommon",
+        "chance": 17.5,
+        "price": 5,
+        "image": "/content/blooks/Realistic Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Apple": {
+        "rarity": "Uncommon",
+        "chance": 15.2,
+        "price": 5,
+        "image": "/content/blooks/Apple.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Two of Spades": {
+        "rarity": "Uncommon",
+        "chance": 15.2,
+        "price": 5,
+        "image": "/content/blooks/Two of Spades.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Alice": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Alice.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Baseball": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Baseball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Basketball": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Basketball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Clownfish": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Clownfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Crab": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Crab.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Drink Me": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Drink Me.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Eat Me": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Eat Me.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Flamingo": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Flamingo.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Frog": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Frog.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Glowing Ankha": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Glowing Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Golf Ball": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Golf Ball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Grape": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Grape.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Jade": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Jade.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Jasper": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Jasper.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Jellyfish": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Jellyfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Lapis Lazuli": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Lapis Lazuli.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Lemon": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Lemon.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Lime": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Lime.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Old Boot": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Old Boot.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Onyx": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Onyx.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Orange": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Orange.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Panda": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Panda.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Quartz": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Quartz.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Queen of Hearts": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Queen of Hearts.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Sloth": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Sloth.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Soccer Ball": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Soccer Ball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Tennis Ball": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Tennis Ball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Tenrec": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Tenrec.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Zebra": {
+        "rarity": "Uncommon",
+        "chance": 15,
+        "price": 5,
+        "image": "/content/blooks/Zebra.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Beach Ball": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Beach Ball.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Drums": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Drums.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Holiday Gift": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Holiday Gift.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Holiday Wreath": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Holiday Wreath.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Hot Chocolate": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Hot Chocolate.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Music Disc": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Music Disc.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Plastic Shovel": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Plastic Shovel.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Popsicle": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Popsicle.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Sand Bucket": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Sand Bucket.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Sheet Music": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Sheet Music.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Snow Globe": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Snow Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Stocking": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Stocking.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Xylophone": {
+        "rarity": "Uncommon",
+        "chance": 14.5,
+        "price": 5,
+        "image": "/content/blooks/Xylophone.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Among Us": {
+        "rarity": "Uncommon",
+        "chance": 14,
+        "price": 5,
+        "image": "/content/blooks/Among Us.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Flappy Bird": {
+        "rarity": "Uncommon",
+        "chance": 14,
+        "price": 5,
+        "image": "/content/blooks/Flappy Bird.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Pac-Man": {
+        "rarity": "Uncommon",
+        "chance": 14,
+        "price": 5,
+        "image": "/content/blooks/Pac-Man.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Poke Ball": {
+        "rarity": "Uncommon",
+        "chance": 14,
+        "price": 5,
+        "image": "/content/blooks/Poke Ball.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Space Invader": {
+        "rarity": "Uncommon",
+        "chance": 14,
+        "price": 5,
+        "image": "/content/blooks/Space Invader.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "acai": {
+        "rarity": "Uncommon",
+        "chance": 13.75,
+        "price": 5,
+        "image": "/content/blooks/acai.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "alicialol": {
+        "rarity": "Uncommon",
+        "chance": 13.75,
+        "price": 5,
+        "image": "/content/blooks/alicialol.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "fristic": {
+        "rarity": "Uncommon",
+        "chance": 13.75,
+        "price": 5,
+        "image": "/content/blooks/fristic.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Minesraft2": {
+        "rarity": "Uncommon",
+        "chance": 13.75,
+        "price": 5,
+        "image": "/content/blooks/Minesraft2.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Pablo": {
+        "rarity": "Uncommon",
+        "chance": 13.75,
+        "price": 5,
+        "image": "/content/blooks/Pablo.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Elf": {
+        "rarity": "Uncommon",
+        "chance": 13.4,
+        "price": 5,
+        "image": "/content/blooks/Elf.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Fairy": {
+        "rarity": "Uncommon",
+        "chance": 13.4,
+        "price": 5,
+        "image": "/content/blooks/Fairy.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Slime Monster": {
+        "rarity": "Uncommon",
+        "chance": 13.4,
+        "price": 5,
+        "image": "/content/blooks/Slime Monster.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Witch": {
+        "rarity": "Uncommon",
+        "chance": 13.4,
+        "price": 5,
+        "image": "/content/blooks/Witch.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Wizard": {
+        "rarity": "Uncommon",
+        "chance": 13.4,
+        "price": 5,
+        "image": "/content/blooks/Wizard.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Breakfast Combo": {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "price": 5,
+        "image": "/content/blooks/Breakfast Combo.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Cereal": {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "price": 5,
+        "image": "/content/blooks/Cereal.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Milk": {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "price": 5,
+        "image": "/content/blooks/Milk.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Orange Juice": {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "price": 5,
+        "image": "/content/blooks/Orange Juice.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Toast": {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "price": 5,
+        "image": "/content/blooks/Toast.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Yogurt": {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "price": 5,
+        "image": "/content/blooks/Yogurt.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Mummy": {
+        "rarity": "Rare",
+        "chance": 10.15,
+        "price": 20,
+        "image": "/content/blooks/Mummy.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Zombie": {
+        "rarity": "Rare",
+        "chance": 10.15,
+        "price": 20,
+        "image": "/content/blooks/Zombie.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Ankha's House": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Ankha's House.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Baby Blue Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Baby Blue Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Brown Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Brown Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Buddy Bot": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Buddy Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Dull Blue Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Dull Blue Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Dust Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Dust Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Frost Elemental": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Frost Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Gray Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Gray Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Knight Shield": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Knight Shield.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Knight Sword": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Knight Sword.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Lava Elemental": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Lava Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Light Blue Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Light Blue Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Lime Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Lime Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Mark Ankha": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Mark Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Maroon Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Maroon Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Orange Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Orange Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Planet": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Planet.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Tan Blook": {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "price": 5,
+        "image": "/content/blooks/Tan Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "UFO": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/UFO.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Watson": {
+        "rarity": "Rare",
+        "chance": 10,
+        "price": 20,
+        "image": "/content/blooks/Watson.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Big Shield": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Big Shield.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Brontosaurus": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Brontosaurus.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Creeper": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Creeper.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Dragon": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Dragon.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Goomba": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Goomba.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Jester": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Jester.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Pancakes": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Pancakes.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Queen": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Queen.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Velociraptor": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Velociraptor.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Waffle": {
+        "rarity": "Rare",
+        "chance": 9,
+        "price": 20,
+        "image": "/content/blooks/Waffle.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Chocolate": {
+        "rarity": "Rare",
+        "chance": 8.5,
+        "price": 20,
+        "image": "/content/blooks/Chocolate.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Dink": {
+        "rarity": "Rare",
+        "chance": 8.5,
+        "price": 20,
+        "image": "/content/blooks/Dink.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Donk": {
+        "rarity": "Rare",
+        "chance": 8.5,
+        "price": 20,
+        "image": "/content/blooks/Donk.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Peppermint": {
+        "rarity": "Rare",
+        "chance": 8.5,
+        "price": 20,
+        "image": "/content/blooks/Peppermint.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Conch Shell": {
+        "rarity": "Rare",
+        "chance": 8,
+        "price": 20,
+        "image": "/content/blooks/Conch Shell.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Life Float": {
+        "rarity": "Rare",
+        "chance": 8,
+        "price": 20,
+        "image": "/content/blooks/Life Float.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Metronome": {
+        "rarity": "Rare",
+        "chance": 8,
+        "price": 20,
+        "image": "/content/blooks/Metronome.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Triangle": {
+        "rarity": "Rare",
+        "chance": 8,
+        "price": 20,
+        "image": "/content/blooks/Triangle.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Gingerbread House": {
+        "rarity": "Rare",
+        "chance": 7.1,
+        "price": 20,
+        "image": "/content/blooks/Gingerbread House.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Gingerbread Man": {
+        "rarity": "Rare",
+        "chance": 7.1,
+        "price": 20,
+        "image": "/content/blooks/Gingerbread Man.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Reindeer": {
+        "rarity": "Rare",
+        "chance": 7.1,
+        "price": 20,
+        "image": "/content/blooks/Reindeer.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Bowling Ball": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Bowling Ball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Elephant": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Elephant.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Football": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Football.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Joey": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Joey.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Kangaroo": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Kangaroo.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Lemur": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Lemur.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Peacock": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Peacock.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Ping Pong Racket": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Ping Pong Racket.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Platypus": {
+        "rarity": "Rare",
+        "chance": 7,
+        "price": 20,
+        "image": "/content/blooks/Platypus.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Ruby": {
+        "rarity": "Rare",
+        "chance": 6.8,
+        "price": 20,
+        "image": "/content/blooks/Ruby.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Sapphire": {
+        "rarity": "Rare",
+        "chance": 6.8,
+        "price": 20,
+        "image": "/content/blooks/Sapphire.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Topaz": {
+        "rarity": "Rare",
+        "chance": 6.8,
+        "price": 20,
+        "image": "/content/blooks/Topaz.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Caramel Apple": {
+        "rarity": "Rare",
+        "chance": 6.7,
+        "price": 20,
+        "image": "/content/blooks/Caramel Apple.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Blueberry": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/Blueberry.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Cheshire Cat": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/Cheshire Cat.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Dormouse": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/Dormouse.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "okr765": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/okr765.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "painbow": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/painbow.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Piotr": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/Piotr.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Raspberry": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/Raspberry.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Strawberry": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/Strawberry.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "White Rabbit": {
+        "rarity": "Rare",
+        "chance": 6.5,
+        "price": 20,
+        "image": "/content/blooks/White Rabbit.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Blobfish": {
+        "rarity": "Rare",
+        "chance": 6.1,
+        "price": 20,
+        "image": "/content/blooks/Blobfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Octopus": {
+        "rarity": "Rare",
+        "chance": 6.1,
+        "price": 20,
+        "image": "/content/blooks/Octopus.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Pufferfish": {
+        "rarity": "Rare",
+        "chance": 6.1,
+        "price": 20,
+        "image": "/content/blooks/Pufferfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Snowman": {
+        "rarity": "Epic",
+        "chance": 5.15,
+        "price": 75,
+        "image": "/content/blooks/Snowman.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Blue Blook": {
+        "rarity": "Rare",
+        "chance": 5,
+        "price": 20,
+        "image": "/content/blooks/Blue Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Burgandy Blook": {
+        "rarity": "Rare",
+        "chance": 5,
+        "price": 20,
+        "image": "/content/blooks/Burgandy Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "French Toast": {
+        "rarity": "Epic",
+        "chance": 5,
+        "price": 75,
+        "image": "/content/blooks/French Toast.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Green Blook": {
+        "rarity": "Rare",
+        "chance": 5,
+        "price": 20,
+        "image": "/content/blooks/Green Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Mint Blook": {
+        "rarity": "Rare",
+        "chance": 5,
+        "price": 20,
+        "image": "/content/blooks/Mint Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Salmon Blook": {
+        "rarity": "Rare",
+        "chance": 5,
+        "price": 20,
+        "image": "/content/blooks/Salmon Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Teal Blook": {
+        "rarity": "Rare",
+        "chance": 5,
+        "price": 20,
+        "image": "/content/blooks/Teal Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Unicorn": {
+        "rarity": "Epic",
+        "chance": 5,
+        "price": 75,
+        "image": "/content/blooks/Unicorn.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Werewolf": {
+        "rarity": "Epic",
+        "chance": 5,
+        "price": 75,
+        "image": "/content/blooks/Werewolf.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Bush Monster": {
+        "rarity": "Epic",
+        "chance": 4.5,
+        "price": 75,
+        "image": "/content/blooks/Bush Monster.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Fragment Grenade": {
+        "rarity": "Epic",
+        "chance": 4.5,
+        "price": 75,
+        "image": "/content/blooks/Fragment Grenade.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Gummy Worm": {
+        "rarity": "Epic",
+        "chance": 4.5,
+        "price": 75,
+        "image": "/content/blooks/Gummy Worm.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Space Elemental": {
+        "rarity": "Epic",
+        "chance": 4.5,
+        "price": 75,
+        "image": "/content/blooks/Space Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Spaceship": {
+        "rarity": "Epic",
+        "chance": 4.5,
+        "price": 75,
+        "image": "/content/blooks/Spaceship.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "High Ankha": {
+        "rarity": "Epic",
+        "chance": 4,
+        "price": 75,
+        "image": "/content/blooks/High Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Amethyst": {
+        "rarity": "Epic",
+        "chance": 3.9,
+        "price": 75,
+        "image": "/content/blooks/Amethyst.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Brainy Bot": {
+        "rarity": "Epic",
+        "chance": 3.7,
+        "price": 75,
+        "image": "/content/blooks/Brainy Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Triceratops": {
+        "rarity": "Epic",
+        "chance": 3.7,
+        "price": 75,
+        "image": "/content/blooks/Triceratops.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Crocodile": {
+        "rarity": "Epic",
+        "chance": 3.6,
+        "price": 75,
+        "image": "/content/blooks/Crocodile.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Chameleon": {
+        "rarity": "Epic",
+        "chance": 3.48,
+        "price": 75,
+        "image": "/content/blooks/Chameleon.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Curling Stone": {
+        "rarity": "Epic",
+        "chance": 3.48,
+        "price": 75,
+        "image": "/content/blooks/Curling Stone.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Speaker": {
+        "rarity": "Epic",
+        "chance": 3.1,
+        "price": 75,
+        "image": "/content/blooks/Speaker.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Surfboard": {
+        "rarity": "Epic",
+        "chance": 3.1,
+        "price": 75,
+        "image": "/content/blooks/Surfboard.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Dolphin": {
+        "rarity": "Epic",
+        "chance": 3,
+        "price": 75,
+        "image": "/content/blooks/Dolphin.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Narwhal": {
+        "rarity": "Epic",
+        "chance": 3,
+        "price": 75,
+        "image": "/content/blooks/Narwhal.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Black Ankha": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Black Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Caterpillar": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Caterpillar.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Cerulean": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Cerulean.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Dragon Fruit": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Dragon Fruit.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "iBlooket": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/iBlooket.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Mad Hatter": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Mad Hatter.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Purple Blook": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Purple Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Red Blook": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Red Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Watermelon": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Watermelon.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Yellow Blook": {
+        "rarity": "Epic",
+        "chance": 2.5,
+        "price": 75,
+        "image": "/content/blooks/Yellow Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Pizza": {
+        "rarity": "Epic",
+        "chance": 2,
+        "price": 75,
+        "image": "/content/blooks/Pizza.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Companion Cube": {
+        "rarity": "Epic",
+        "chance": 1.3,
+        "price": 75,
+        "image": "/content/blooks/Companion Cube.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Red Bird": {
+        "rarity": "Epic",
+        "chance": 1.3,
+        "price": 75,
+        "image": "/content/blooks/Red Bird.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "King": {
+        "rarity": "Legendary",
+        "chance": 1,
+        "price": 200,
+        "image": "/content/blooks/King.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Sandwich": {
+        "rarity": "Legendary",
+        "chance": 1,
+        "price": 200,
+        "image": "/content/blooks/Sandwich.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Santa Claus": {
+        "rarity": "Legendary",
+        "chance": 1,
+        "price": 200,
+        "image": "/content/blooks/Santa Claus.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Ghost": {
+        "rarity": "Legendary",
+        "chance": 0.65,
+        "price": 200,
+        "image": "/content/blooks/Ghost.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Baby Shark": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/Baby Shark.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Football Helmet": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/Football Helmet.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Golden Ankha": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/Golden Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Lion": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/Lion.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Opal": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/Opal.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "root": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/root.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "White Blook": {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "price": 200,
+        "image": "/content/blooks/White Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Astronaut": {
+        "rarity": "Legendary",
+        "chance": 0.45,
+        "price": 200,
+        "image": "/content/blooks/Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Electric Elemental": {
+        "rarity": "Legendary",
+        "chance": 0.45,
+        "price": 200,
+        "image": "/content/blooks/Electric Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "M12 Shotgun": {
+        "rarity": "Legendary",
+        "chance": 0.45,
+        "price": 200,
+        "image": "/content/blooks/M12 Shotgun.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Piano": {
+        "rarity": "Legendary",
+        "chance": 0.4,
+        "price": 200,
+        "image": "/content/blooks/Piano.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Sand Castle": {
+        "rarity": "Legendary",
+        "chance": 0.4,
+        "price": 200,
+        "image": "/content/blooks/Sand Castle.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Sugar Glider": {
+        "rarity": "Legendary",
+        "chance": 0.37,
+        "price": 200,
+        "image": "/content/blooks/Sugar Glider.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "Master Chief": {
+        "rarity": "Legendary",
+        "chance": 0.35,
+        "price": 200,
+        "image": "/content/blooks/Master Chief.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Rock Candy": {
+        "rarity": "Legendary",
+        "chance": 0.35,
+        "price": 200,
+        "image": "/content/blooks/Rock Candy.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Yeti": {
+        "rarity": "Legendary",
+        "chance": 0.35,
+        "price": 200,
+        "image": "/content/blooks/Yeti.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "King of Hearts": {
+        "rarity": "Legendary",
+        "chance": 0.3,
+        "price": 200,
+        "image": "/content/blooks/King of Hearts.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Mega Bot": {
+        "rarity": "Legendary",
+        "chance": 0.3,
+        "price": 200,
+        "image": "/content/blooks/Mega Bot.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Starfruit": {
+        "rarity": "Legendary",
+        "chance": 0.3,
+        "price": 200,
+        "image": "/content/blooks/Starfruit.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Tyrannosaurus Rex": {
+        "rarity": "Legendary",
+        "chance": 0.3,
+        "price": 200,
+        "image": "/content/blooks/Tyrannosaurus Rex.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "monkxy": {
+        "rarity": "Legendary",
+        "chance": 0.25,
+        "price": 250,
+        "image": "/content/blooks/monkxy.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Black Blook": {
+        "rarity": "Legendary",
+        "chance": 0.2,
+        "price": 250,
+        "image": "/content/blooks/Black Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Megalodon": {
+        "rarity": "Legendary",
+        "chance": 0.2,
+        "price": 250,
+        "image": "/content/blooks/Megalodon.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Moonstone": {
+        "rarity": "Legendary",
+        "chance": 0.2,
+        "price": 250,
+        "image": "/content/blooks/Moonstone.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Ice Slime": {
+        "rarity": "Chroma",
+        "chance": 0.08,
+        "price": 300,
+        "image": "/content/blooks/Ice Slime.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Lovely Frog": {
+        "rarity": "Chroma",
+        "chance": 0.08,
+        "price": 300,
+        "image": "/content/blooks/Lovely Frog.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "White Chocolate": {
+        "rarity": "Chroma",
+        "chance": 0.08,
+        "price": 300,
+        "image": "/content/blooks/White Chocolate.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Lucky Frog": {
+        "rarity": "Chroma",
+        "chance": 0.07,
+        "price": 300,
+        "image": "/content/blooks/Lucky Frog.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Spring Frog": {
+        "rarity": "Chroma",
+        "chance": 0.06,
+        "price": 300,
+        "image": "/content/blooks/Spring Frog.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Agent Owl": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Agent Owl.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Black Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Black Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Blizzard Clownfish": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Blizzard Clownfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Blue Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Blue Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Brown Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Brown Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Chocolate Milk": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Chocolate Milk.png",
+        "art": "/content/packs/art/Breakfast.png"
+    },
+    "Crimson Octopus": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Crimson Octopus.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Cyan Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Cyan Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Donut Blobfish": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Donut Blobfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Doxy": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Doxy.png",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Egypt Snow Globe": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Egypt Snow Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Frozen Fossil": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Frozen Fossil.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "Golden Amber": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Golden Amber.png",
+        "art": "/content/packs/art/Dino.png"
+    },
+    "Golden Among Us": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Golden Among Us.png",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Green Apple": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Green Apple.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Green Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Green Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Haunted Pumpkin": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Haunted Pumpkin.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Japan Snow Globe": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Japan Snow Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Lemon Crab": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Lemon Crab.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Lime Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Lime Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "London Snow Globe": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/London Snow Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "M67 Grenade": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/M67 Grenade.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Master Elf": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Master Elf.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "New York Snow Globe": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/New York Snow Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Orange Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Orange Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Paris Snow Globe": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Paris Snow Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Pink Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Pink Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Pink Blook": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Pink Blook.png",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Pirate Pufferfish": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Pirate Pufferfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Plasma Elemental": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Plasma Elemental.png",
+        "art": "/content/packs/art/Elemental.png"
+    },
+    "Poison Dart Frog": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Poison Dart Frog.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Purple Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Purple Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Rainbow Jellyfish": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Rainbow Jellyfish.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Rainbow Narwhal": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Rainbow Narwhal.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Red Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Red Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Red Licorice": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Red Licorice.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Rose Quartz": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Rose Quartz.png",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Wise Owl": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Wise Owl.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Yellow Astronaut": {
+        "rarity": "Chroma",
+        "chance": 0.05,
+        "price": 300,
+        "image": "/content/blooks/Yellow Astronaut.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Catson": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/Catson.png",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Coconut Cocktail": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/Coconut Cocktail.png",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Dinah": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/Dinah.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Frost Wreath": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/Frost Wreath.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Pumpkin Cookie": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/Pumpkin Cookie.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Teal Platypus": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/Teal Platypus.png",
+        "art": "/content/packs/art/Outback.png"
+    },
+    "White Piano": {
+        "rarity": "Chroma",
+        "chance": 0.03,
+        "price": 300,
+        "image": "/content/blooks/White Piano.png",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Mummy Cookie": {
+        "rarity": "Chroma",
+        "chance": 0.025,
+        "price": 300,
+        "image": "/content/blooks/Mummy Cookie.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Blue Gummy Worm": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Blue Gummy Worm.png",
+        "art": "/content/packs/art/Candy.png"
+    },
+    "Ghost Cookie": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Ghost Cookie.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Ice Crab": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Ice Crab.png",
+        "art": "/content/packs/art/Ice Monster.png"
+    },
+    "March Hare": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/March Hare.png",
+        "art": "/content/packs/art/Wonderland.png"
+    },
+    "Rainbow Panda": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Rainbow Panda.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Red Bowling Ball": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Red Bowling Ball.png",
+        "art": "/content/packs/art/Sports.png"
+    },
+    "Tiger Zebra": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Tiger Zebra.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Tropical Globe": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Tropical Globe.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "White Peacock": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/White Peacock.png",
+        "art": "/content/packs/art/Safari.png"
+    },
+    "Zone Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.02,
+        "price": 300,
+        "image": "/content/blooks/Zone Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Anaconda Wizard": {
+        "rarity": "Chroma",
+        "chance": 0.0175,
+        "price": 300,
+        "image": "/content/blooks/Anaconda Wizard.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Chick Chicken": {
+        "rarity": "Chroma",
+        "chance": 0.0175,
+        "price": 300,
+        "image": "/content/blooks/Chick Chicken.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Chicken Chick": {
+        "rarity": "Chroma",
+        "chance": 0.0175,
+        "price": 300,
+        "image": "/content/blooks/Chicken Chick.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Haunted Cookie": {
+        "rarity": "Chroma",
+        "chance": 0.0175,
+        "price": 300,
+        "image": "/content/blooks/Haunted Cookie.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Owl Sheriff": {
+        "rarity": "Chroma",
+        "chance": 0.0175,
+        "price": 300,
+        "image": "/content/blooks/Owl Sheriff.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Raccoon Bandit": {
+        "rarity": "Chroma",
+        "chance": 0.0175,
+        "price": 300,
+        "image": "/content/blooks/Raccoon Bandit.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Pumpkin King": {
+        "rarity": "Chroma",
+        "chance": 0.015,
+        "price": 300,
+        "image": "/content/blooks/Pumpkin King.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Vampire Frog": {
+        "rarity": "Chroma",
+        "chance": 0.015,
+        "price": 300,
+        "image": "/content/blooks/Vampire Frog.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Spooky Cookie": {
+        "rarity": "Chroma",
+        "chance": 0.013,
+        "price": 300,
+        "image": "/content/blooks/Spooky Cookie.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Spooky Pumpkin": {
+        "rarity": "Chroma",
+        "chance": 0.0125,
+        "price": 300,
+        "image": "/content/blooks/Spooky Pumpkin.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Blue Raspberry": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Blue Raspberry.png",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Festive Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Festive Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Golden Gift": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Golden Gift.png",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "Lovely Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Lovely Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Lucky Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Lucky Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Naughty Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Naughty Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Space Terminal": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Space Terminal.png",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Spooky Mummy": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Spooky Mummy.png",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Spring Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Spring Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Ukraine Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.01,
+        "price": 350,
+        "image": "/content/blooks/Ukraine Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "American Ankha": {
+        "rarity": "Chroma",
+        "chance": 0.0087,
+        "price": 350,
+        "image": "/content/blooks/American Ankha.png",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Space Debugger": {
+        "rarity": "Mystical",
+        "chance": 0.0075,
+        "price": 1000,
+        "image": "/content/blooks/Space Debugger.gif",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Diamond Gift": {
+        "rarity": "Mystical",
+        "chance": 0.005,
+        "price": 1000,
+        "image": "/content/blooks/Diamond Gift.gif",
+        "art": "/content/packs/art/Blizzard.png"
+    },
+    "envi": {
+        "rarity": "Mystical",
+        "chance": 0.005,
+        "price": 1000,
+        "image": "/content/blooks/envi.gif",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Phantom King": {
+        "rarity": "Mystical",
+        "chance": 0.005,
+        "price": 1000,
+        "image": "/content/blooks/Phantom King.gif",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Rainbow Blook": {
+        "rarity": "Mystical",
+        "chance": 0.005,
+        "price": 1000,
+        "image": "/content/blooks/Rainbow Blook.gif",
+        "art": "/content/packs/art/Color.png"
+    },
+    "Spooky Ghost": {
+        "rarity": "Mystical",
+        "chance": 0.005,
+        "price": 1000,
+        "image": "/content/blooks/Spooky Ghost.gif",
+        "art": "/content/packs/art/Spooky.png"
+    },
+    "Tim the Alien": {
+        "rarity": "Mystical",
+        "chance": 0.005,
+        "price": 1000,
+        "image": "/content/blooks/Tim the Alien.gif",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Forgotten Bot": {
+        "rarity": "Mystical",
+        "chance": 0.004,
+        "price": 1000,
+        "image": "/content/blooks/Forgotten Bot.gif",
+        "art": "/content/packs/art/Bot.png"
+    },
+    "Tropical Pig": {
+        "rarity": "Mystical",
+        "chance": 0.004,
+        "price": 1000,
+        "image": "/content/blooks/Tropical Pig.gif",
+        "art": "/content/packs/art/Summer.png"
+    },
+    "Black Opal": {
+        "rarity": "Mystical",
+        "chance": 0.0037,
+        "price": 1000,
+        "image": "/content/blooks/Black Opal.gif",
+        "art": "/content/packs/art/Gemstone.png"
+    },
+    "Golden Harp": {
+        "rarity": "Mystical",
+        "chance": 0.0037,
+        "price": 1000,
+        "image": "/content/blooks/Golden Harp.gif",
+        "art": "/content/packs/art/Music.png"
+    },
+    "Dark Dragon": {
+        "rarity": "Mystical",
+        "chance": 0.003,
+        "price": 1000,
+        "image": "/content/blooks/Dark Dragon.gif",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Gaming Mouse": {
+        "rarity": "Mystical",
+        "chance": 0.003,
+        "price": 1000,
+        "image": "/content/blooks/Gaming Mouse.gif",
+        "art": "/content/packs/art/Video Game.png"
+    },
+    "Kraken": {
+        "rarity": "Mystical",
+        "chance": 0.003,
+        "price": 1000,
+        "image": "/content/blooks/Kraken.gif",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Rainbow Ankha": {
+        "rarity": "Mystical",
+        "chance": 0.003,
+        "price": 1000,
+        "image": "/content/blooks/Rainbow Ankha.gif",
+        "art": "/content/packs/art/Ankha.png"
+    },
+    "Diamond Sword": {
+        "rarity": "Mystical",
+        "chance": 0.0025,
+        "price": 1000,
+        "image": "/content/blooks/Diamond Sword.gif",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Golden Apple": {
+        "rarity": "Mystical",
+        "chance": 0.0025,
+        "price": 1000,
+        "image": "/content/blooks/Golden Apple.gif",
+        "art": "/content/packs/art/Fruit.png"
+    },
+    "Rainbow Astronaut": {
+        "rarity": "Mystical",
+        "chance": 0.0025,
+        "price": 1000,
+        "image": "/content/blooks/Rainbow Astronaut.gif",
+        "art": "/content/packs/art/Space.png"
+    },
+    "Xotic": {
+        "rarity": "Mystical",
+        "chance": 0.0025,
+        "price": 1000,
+        "image": "/content/blooks/Xotic.gif",
+        "art": "/content/packs/art/OG.png"
+    },
+    "Golden Shuriken": {
+        "rarity": "Mystical",
+        "chance": 0.001,
+        "price": 2500,
+        "image": "/content/blooks/Golden Shuriken.gif",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Bia": {
+        "rarity": "Iridescent",
+        "chance": 0,
+        "price": 25000,
+        "image": "/content/blooks/Bia.gif",
+        "art": ""
+    },
+    "Gold Doubloon": {
+        "rarity": "Mystical",
+        "chance": 0,
+        "price": 1000,
+        "image": "/content/blooks/Gold Doubloon.gif",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Golden Crab": {
+        "rarity": "Chroma",
+        "chance": 0,
+        "price": 300,
+        "image": "/content/blooks/Golden Crab.png",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Golden Seashell": {
+        "rarity": "Mystical",
+        "chance": 0,
+        "price": 1000,
+        "image": "/content/blooks/Golden Seashell.gif",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Golden Shovel": {
+        "rarity": "Chroma",
+        "chance": 0,
+        "price": 300,
+        "image": "/content/blooks/Golden Shovel.png",
+        "art": "/content/packs/art/Combat.png"
+    },
+    "Party Pig": {
+        "rarity": "Chroma",
+        "chance": 0,
+        "price": 350,
+        "image": "/content/blooks/Party Pig.png",
+        "art": "/content/packs/art/Medieval.png"
+    },
+    "Treasure Chest": {
+        "rarity": "Mystical",
+        "chance": 0,
+        "price": 1000,
+        "image": "/content/blooks/Treasure Chest.gif",
+        "art": "/content/packs/art/Aquatic.png"
+    },
+    "Tropical Island": {
+        "rarity": "Iridescent",
+        "chance": 0,
+        "price": 25000,
+        "image": "/content/blooks/Tropical Island.gif",
+        "art": "/content/packs/art/Aquatic.png"
+    }
+}
